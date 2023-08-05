@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stormybeat
 - 🌱 I’m currently learning python and html.
-- 💞️ I’m looking to collaborate on discord bots.
 - 📫 How to reach me:
 - @Em.2#9188 on discord
 
