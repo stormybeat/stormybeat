@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stormybeat
-- 🌱 I’m currently learning python and html.
+- 🌱 I’m currently learning python and Rust.
 - 📫 How to reach me:
 - @Em.2#9188 on discord
 
